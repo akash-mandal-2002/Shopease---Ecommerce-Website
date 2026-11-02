@@ -1,0 +1,14 @@
+import { Router } from 'express';
+import { cancelMyOrder, getAllOrders, getInvoice, getMyOrders, placeOrder, requestReturn, updateOrderStatus } from '../controllers/orderController.js';
+import { requireAdmin, requireAuth } from '../middleware/auth.js';
+import { asyncHandler } from '../utils/asyncHandler.js';
+const router = Router();
+router.use(requireAuth);
+router.post('/', asyncHandler(placeOrder));
+router.get('/mine', asyncHandler(getMyOrders));
+router.get('/:id/invoice', asyncHandler(getInvoice));
+router.post('/:id/cancel', asyncHandler(cancelMyOrder));
+router.post('/:id/return', asyncHandler(requestReturn));
+router.get('/', requireAdmin, asyncHandler(getAllOrders));
+router.patch('/:id/status', requireAdmin, asyncHandler(updateOrderStatus));
+export default router;

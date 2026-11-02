@@ -1,0 +1,194 @@
+[
+  {
+    "id": "cat-beauty",
+    "name": "Beauty",
+    "slug": "beauty",
+    "description": "Explore beauty products.",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp",
+    "createdAt": "2026-10-04T13:45:35.431Z"
+  },
+  {
+    "id": "cat-fragrances",
+    "name": "Fragrances",
+    "slug": "fragrances",
+    "description": "Explore fragrances products.",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/1.webp",
+    "createdAt": "2026-10-04T13:45:35.432Z"
+  },
+  {
+    "id": "cat-furniture",
+    "name": "Furniture",
+    "slug": "furniture",
+    "description": "Explore furniture products.",
+    "image": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp",
+    "createdAt": "2026-10-04T13:45:35.432Z"
+  },
+  {
+    "id": "cat-groceries",
+    "name": "Groceries",
+    "slug": "groceries",
+    "description": "Explore groceries products.",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/apple/1.webp",
+    "createdAt": "2026-10-04T13:45:35.432Z"
+  },
+  {
+    "id": "cat-home-decoration",
+    "name": "Home Decoration",
+    "slug": "home-decoration",
+    "description": "Explore home decoration products.",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/1.webp",
+    "createdAt": "2026-10-04T13:45:35.432Z"
+  },
+  {
+    "id": "cat-kitchen-accessories",
+    "name": "Kitchen Accessories",
+    "slug": "kitchen-accessories",
+    "description": "Explore kitchen accessories products.",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/1.webp",
+    "createdAt": "2026-10-04T13:45:35.432Z"
+  },
+  {
+    "id": "cat-laptops",
+    "name": "Laptops",
+    "slug": "laptops",
+    "description": "Explore laptops products.",
+    "image": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/1.webp",
+    "createdAt": "2026-10-04T13:45:35.432Z"
+  },
+  {
+    "id": "cat-mens-shirts",
+    "name": "Mens Shirts",
+    "slug": "mens-shirts",
+    "description": "Explore mens shirts products.",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/1.webp",
+    "createdAt": "2026-10-04T13:45:35.432Z"
+  },
+  {
+    "id": "cat-mens-shoes",
+    "name": "Mens Shoes",
+    "slug": "mens-shoes",
+    "description": "Explore mens shoes products.",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
+    "createdAt": "2026-10-04T13:45:35.432Z"
+  },
+  {
+    "id": "cat-mens-watches",
+    "name": "Mens Watches",
+    "slug": "mens-watches",
+    "description": "Explore mens watches products.",
+    "image": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp",
+    "createdAt": "2026-10-04T13:45:35.432Z"
+  },
+  {
+    "id": "cat-mobile-accessories",
+    "name": "Mobile Accessories",
+    "slug": "mobile-accessories",
+    "description": "Explore mobile accessories products.",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp",
+    "createdAt": "2026-10-04T13:45:35.432Z"
+  },
+  {
+    "id": "cat-motorcycle",
+    "name": "Motorcycle",
+    "slug": "motorcycle",
+    "description": "Explore motorcycle products.",
+    "image": "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/1.webp",
+    "createdAt": "2026-10-04T13:45:35.432Z"
+  },
+  {
+    "id": "cat-skin-care",
+    "name": "Skin Care",
+    "slug": "skin-care",
+    "description": "Explore skin care products.",
+    "image": "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/1.webp",
+    "createdAt": "2026-10-04T13:45:35.432Z"
+  },
+  {
+    "id": "cat-smartphones",
+    "name": "Smartphones",
+    "slug": "smartphones",
+    "description": "Explore smartphones products.",
+    "image": "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/1.webp",
+    "createdAt": "2026-10-04T13:45:35.432Z"
+  },
+  {
+    "id": "cat-sports-accessories",
+    "name": "Sports Accessories",
+    "slug": "sports-accessories",
+    "description": "Explore sports accessories products.",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/1.webp",
+    "createdAt": "2026-10-04T13:45:35.432Z"
+  },
+  {
+    "id": "cat-sunglasses",
+    "name": "Sunglasses",
+    "slug": "sunglasses",
+    "description": "Explore sunglasses products.",
+    "image": "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/1.webp",
+    "createdAt": "2026-10-04T13:45:35.432Z"
+  },
+  {
+    "id": "cat-tablets",
+    "name": "Tablets",
+    "slug": "tablets",
+    "description": "Explore tablets products.",
+    "image": "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/1.webp",
+    "createdAt": "2026-10-04T13:45:35.433Z"
+  },
+  {
+    "id": "cat-tops",
+    "name": "Tops",
+    "slug": "tops",
+    "description": "Explore tops products.",
+    "image": "https://cdn.dummyjson.com/product-images/tops/blue-frock/1.webp",
+    "createdAt": "2026-10-04T13:45:35.433Z"
+  },
+  {
+    "id": "cat-vehicle",
+    "name": "Vehicle",
+    "slug": "vehicle",
+    "description": "Explore vehicle products.",
+    "image": "https://cdn.dummyjson.com/product-images/vehicle/300-touring/1.webp",
+    "createdAt": "2026-10-04T13:45:35.433Z"
+  },
+  {
+    "id": "cat-womens-bags",
+    "name": "Womens Bags",
+    "slug": "womens-bags",
+    "description": "Explore womens bags products.",
+    "image": "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/1.webp",
+    "createdAt": "2026-10-04T13:45:35.433Z"
+  },
+  {
+    "id": "cat-womens-dresses",
+    "name": "Womens Dresses",
+    "slug": "womens-dresses",
+    "description": "Explore womens dresses products.",
+    "image": "https://cdn.dummyjson.com/product-images/womens-dresses/black-women's-gown/1.webp",
+    "createdAt": "2026-10-04T13:45:35.433Z"
+  },
+  {
+    "id": "cat-womens-jewellery",
+    "name": "Womens Jewellery",
+    "slug": "womens-jewellery",
+    "description": "Explore womens jewellery products.",
+    "image": "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/1.webp",
+    "createdAt": "2026-10-04T13:45:35.433Z"
+  },
+  {
+    "id": "cat-womens-shoes",
+    "name": "Womens Shoes",
+    "slug": "womens-shoes",
+    "description": "Explore womens shoes products.",
+    "image": "https://cdn.dummyjson.com/product-images/womens-shoes/black-&-brown-slipper/1.webp",
+    "createdAt": "2026-10-04T13:45:35.433Z"
+  },
+  {
+    "id": "cat-womens-watches",
+    "name": "Womens Watches",
+    "slug": "womens-watches",
+    "description": "Explore womens watches products.",
+    "image": "https://cdn.dummyjson.com/product-images/womens-watches/iwc-ingenieur-automatic-steel/1.webp",
+    "createdAt": "2026-10-04T13:45:35.433Z"
+  }
+]

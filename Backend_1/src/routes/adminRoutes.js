@@ -1,0 +1,17 @@
+import { Router } from 'express';
+import { deleteUser, getDashboardReport, listPayments, listUsers, updateUserRole } from '../controllers/adminController.js';
+import { getAllInquiries, updateInquiryStatus } from '../controllers/inquiryController.js';
+import { updateReturnStatus } from '../controllers/orderController.js';
+import { requireAdmin, requireAuth } from '../middleware/auth.js';
+import { asyncHandler } from '../utils/asyncHandler.js';
+const router = Router();
+router.use(requireAuth, requireAdmin);
+router.get('/users', asyncHandler(listUsers));
+router.patch('/users/:id/role', asyncHandler(updateUserRole));
+router.delete('/users/:id', asyncHandler(deleteUser));
+router.patch('/orders/:id/return-status', asyncHandler(updateReturnStatus));
+router.get('/payments', asyncHandler(listPayments));
+router.get('/reports', asyncHandler(getDashboardReport));
+router.get('/inquiries', asyncHandler(getAllInquiries));
+router.patch('/inquiries/:id', asyncHandler(updateInquiryStatus));
+export default router;

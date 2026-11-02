@@ -1,0 +1,14 @@
+[
+  {
+    "id": "u-admin",
+    "name": "ShopEase Admin",
+    "email": "admin@shopease.local",
+    "phone": "",
+    "password": "$2b$10$IY.A96efPUoqUsyHFWvPE.DWS7GNixwCaQ.eU7Q9YbyRanlnOOCxm",
+    "address": "",
+    "pincode": "",
+    "gender": "",
+    "role": "admin",
+    "createdAt": "2026-10-04T13:45:35.605Z"
+  }
+]

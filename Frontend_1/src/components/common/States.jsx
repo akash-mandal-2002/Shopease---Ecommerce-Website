@@ -1,0 +1,3 @@
+import Button from './Button';
+export function ErrorState({ message = 'Something went wrong.', onRetry }) { return <div className="rounded-3xl border border-red-100 bg-red-50 p-8 text-center"><p className="font-semibold text-red-900">We couldn't load this section.</p><p className="mt-2 text-sm text-red-700">{message}</p>{onRetry && <Button variant="secondary" className="mt-5" onClick={onRetry}>Try again</Button>}</div>; }
+export function EmptyState({ title = 'Nothing here yet', message = 'There is nothing to show right now.' }) { return <div className="rounded-3xl border border-dashed border-gray-200 p-12 text-center"><p className="text-lg font-semibold text-gray-900">{title}</p><p className="mt-2 text-sm text-gray-500">{message}</p></div>; }
